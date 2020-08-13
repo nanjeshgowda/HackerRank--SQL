@@ -1,1 +1,1 @@
-My SQL queries for the HackerRank SQL Practise.
+My SQL queries for the HackerRank SQL Practise..
